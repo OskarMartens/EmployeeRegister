@@ -7,9 +7,6 @@
  * Jag skapade även en psudo-pepository-klass där jag tänkte ha listan med anställda.
  * Men jag fick inte riktigt ihop det. Istället ligger listan här i Program-klassen.
  * 
- * Jag valde en do-while loop så att menyn alltid skulle skrivas ut i början, även om programmet skulle avslutas direkt.
- * Då slipper jag skriva menyn två gånger.
- * 
  * Jag såg till så att det inte gick att registrera en anställd med en lön som är mindre eller lika med noll.
  * Det går inte heller att se alla anställda om det inte finns några anställda.
  * 
